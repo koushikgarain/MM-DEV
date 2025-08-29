@@ -6,3 +6,5 @@ Authors: Koushik Garain, Chao-Jui Chang, Jer-Horng Wu, Hsiao-Pei Lu, Arndt Telsc
 2. To reproduce the figures in the main manuscript, run the corresponding scripts. (The embedding dimension and window size used here are taken from 'Demo_check_embedding_dim.R'.)
 
 3. Figures 3 and 4 each consist of three parts, with each part generating one panel (column) of the final figure.
+
+4. 'Data' file contains all the datasets.
