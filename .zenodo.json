@@ -1,0 +1,51 @@
+{
+  "title": "MM-DEV: Code and Data for Early Warning Signals to Anticipate Critical Transitions in High-Dimensional Systems",
+  "description": "Code and data associated with the manuscript \"Early warning signals to anticipate critical transitions in high-dimensional systems.\" This repository provides the implementation and datasets used to evaluate MM-DEV, a multivariate extension of the Dynamical Eigenvalue (DEV) framework for detecting early-warning signals of critical transitions in high-dimensional dynamical systems. The repository includes analyses of simulated Ricker and Lotka-Volterra systems, long-term Lake Zurich ecological data, and experimental methane-producing bioreactor data.",
+  "creators": [
+    {
+      "name": "Garain, Koushik",
+      "orcid": "0000-0002-7788-062X"
+    },
+    {
+      "name": "Chang, Chao-Jui"
+    },
+    {
+      "name": "Wu, Jer-Horng"
+    },
+    {
+      "name": "Lu, Hsiao-Pei"
+    },
+    {
+      "name": "Telschow, Arndt"
+    },
+    {
+      "name": "Chang, Chun-Wei"
+    },
+    {
+      "name": "Hsieh, Chih-hao"
+    }
+  ],
+  "keywords": [
+    "early warning signals",
+    "critical transitions",
+    "high-dimensional systems",
+    "dynamical eigenvalue",
+    "MM-DEV",
+    "empirical dynamic modeling",
+    "S-map",
+    "ISOMAP",
+    "nonlinear dynamics",
+    "ecological systems"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/koushikgarain/MM-DEV",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
