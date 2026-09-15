@@ -283,7 +283,7 @@ This version will correspond to the code and data associated with the manuscript
 
 Licensing information for the code will be provided in the repository `LICENSE` file.
 
-Some empirical datasets included in the repository originate from or are associated with previously published data sources and may be subject to their original terms of use. Please consult [**Data/Data-README.md**](Data/Data-README.md) and the corresponding original data sources before redistribution or reuse.
+The source code in this repository is released under the MIT License. Datasets obtained from or associated with previously published sources remain subject to the terms and attribution requirements of their respective original sources. See Data/Data-README.md for data provenance and citation information.
 
 \---
 
