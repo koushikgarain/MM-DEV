@@ -32,13 +32,13 @@ repository-code: "https://github.com/koushikgarain/MM-DEV"
 
 abstract: >-
  This repository contains the code and data associated with the manuscript
-"Early warning signals to anticipate critical transitions in high-dimensional
-systems." It provides the implementation and datasets used to evaluate MM-DEV,
-a multivariate extension of the Dynamical Eigenvalue (DEV) framework for
-detecting early-warning signals of critical transitions in high-dimensional
-dynamical systems. The repository includes analyses of simulated
-Lotka-Volterra and Ricker systems, long-term Lake Zurich ecological data,
-and experimental methane-producing bioreactor data.
+ "Early warning signals to anticipate critical transitions in high-dimensional
+ systems." It provides the implementation and datasets used to evaluate MM-DEV,
+ a multivariate extension of the Dynamical Eigenvalue (DEV) framework for
+ detecting early-warning signals of critical transitions in high-dimensional
+ dynamical systems. The repository includes analyses of simulated
+ Lotka-Volterra and Ricker systems, long-term Lake Zurich ecological data,
+ and experimental methane-producing bioreactor data.
 
 keywords:
 
