@@ -62,7 +62,7 @@ A detailed description of the datasets, their provenance, and the corresponding 
 
 [**Data description and provenance**](Data/Data-README.md)
 
-\---
+
 
 ## Data
 
@@ -116,7 +116,6 @@ DOI: `10.1038/s41522-025-00668-z`
 
 For complete information about individual files and data provenance, see [**Data/Data-README.md**](Data/Data-README.md).
 
-\---
 
 ## Software Requirements
 
@@ -136,7 +135,6 @@ Some of the MM-DEV calculations use S-map coefficient output and functions corre
 
 For exact reproduction of the analyses, users should therefore use a compatible version of `rEDM`.
 
-\---
 
 ## Running the Analysis
 
@@ -223,7 +221,6 @@ Figure_S_13.R
 
 The script names indicate the corresponding supplementary figures.
 
-\---
 
 ## Data Provenance
 
@@ -243,7 +240,6 @@ Detailed information about each dataset, original publications, public repositor
 
 ### [**Data/Data-README.md**](Data/Data-README.md)
 
-\---
 
 ## Citation
 
@@ -265,7 +261,6 @@ A permanent archived version of this repository will be made available through *
 
 For datasets originating from or associated with previous publications, users should also cite the corresponding original data sources listed in [**Data/Data-README.md**](Data/Data-README.md).
 
-\---
 
 ## Version
 
@@ -275,7 +270,6 @@ The first archived research release of this repository will be:
 
 This version will correspond to the code and data associated with the manuscript.
 
-\---
 
 ## License
 
@@ -283,7 +277,6 @@ Licensing information for the code will be provided in the repository `LICENSE` 
 
 The source code in this repository is released under the MIT License. Datasets obtained from or associated with previously published sources remain subject to the terms and attribution requirements of their respective original sources. See Data/Data-README.md for data provenance and citation information.
 
-\---
 
 ## Contact
 
