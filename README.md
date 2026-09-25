@@ -10,7 +10,6 @@ This repository contains the **code and data** associated with the manuscript:
 
 Koushik Garain, Chao-Jui Chang, Jer-Horng Wu, Hsiao-Pei Lu, Arndt Telschow, Chun-Wei Chang, and Chih-hao Hsieh
 
-\---
 
 ## Overview
 
@@ -29,7 +28,6 @@ The repository contains analyses of both model-generated and empirical/experimen
 
 These examples are used to investigate the performance of MM-DEV across different types of critical transitions and systems of varying dimensionality.
 
-\---
 
 ## Repository Structure
 
@@ -38,24 +36,24 @@ MM-DEV/
 │
 ├── Data/
 │   ├── Data-README.md
-│   └── \[data files]
+│   └── [data files]
 │
-├── Demo\_check\_embedding\_dim.R
+├── Demo_check_embedding_dim.R
 │
-├── Figure\_2.R
+├── Figure_2.R
 │
-├── Figure\_3\_1.R
-├── Figure\_3\_2.R
-├── Figure\_3\_3.R
+├── Figure_3_1.R
+├── Figure_3_2.R
+├── Figure_3_3.R
 │
-├── Figure\_4\_1.R
-├── Figure\_4\_2.R
-├── Figure\_4\_3.R
+├── Figure_4_1.R
+├── Figure_4_2.R
+├── Figure_4_3.R
 │
-├── Figure\_S\_8\_10\_11.R
-├── Figure\_S\_9.R
-├── Figure\_S\_12.R
-├── Figure\_S\_13.R
+├── Figure_S_8_10_11.R
+├── Figure_S_9.R
+├── Figure_S_12.R
+├── Figure_S_13.R
 │
 └── README.md
 ```
@@ -153,7 +151,7 @@ MM-DEV/
 should be used as the R working directory so that paths such as
 
 ```r
-read.csv("Data/lake\_zurich.csv")
+read.csv("Data/lake_zurich.csv")
 ```
 
 correctly locate the datasets.
@@ -163,7 +161,7 @@ correctly locate the datasets.
 Run:
 
 ```r
-Demo\_check\_embedding\_dim.R
+Demo_check_embedding_dim.R
 ```
 
 This script determines appropriate values of the **embedding dimension (`E`)** and **moving-window size** using S-map forecasting performance.
@@ -171,7 +169,7 @@ This script determines appropriate values of the **embedding dimension (`E`)** a
 By default, the script uses the Lake Zurich dataset:
 
 ```text
-Data/lake\_zurich.csv
+Data/lake_zurich.csv
 ```
 
 The same procedure can be applied to the other datasets by changing the input dataset.
@@ -183,7 +181,7 @@ The embedding dimension and window size obtained from this procedure are subsequ
 Run:
 
 ```r
-Figure\_2.R
+Figure_2.R
 ```
 
 This script contains the analyses of the model-generated datasets used in **Figure 2**, including the Lotka–Volterra and Ricker-model examples.
@@ -193,9 +191,9 @@ This script contains the analyses of the model-generated datasets used in **Figu
 Figure 3 is divided into three components. Run:
 
 ```r
-Figure\_3\_1.R
-Figure\_3\_2.R
-Figure\_3\_3.R
+Figure_3_1.R
+Figure_3_2.R
+Figure_3_3.R
 ```
 
 Each script generates the corresponding panel/column of Figure 3.
@@ -205,9 +203,9 @@ Each script generates the corresponding panel/column of Figure 3.
 Similarly, Figure 4 is divided into three components. Run:
 
 ```r
-Figure\_4\_1.R
-Figure\_4\_2.R
-Figure\_4\_3.R
+Figure_4_1.R
+Figure_4_2.R
+Figure_4_3.R
 ```
 
 Each script generates the corresponding panel/column of Figure 4.
@@ -217,10 +215,10 @@ Each script generates the corresponding panel/column of Figure 4.
 The supplementary analyses can be reproduced using:
 
 ```r
-Figure\_S\_8\_10\_11.R
-Figure\_S\_9.R
-Figure\_S\_12.R
-Figure\_S\_13.R
+Figure_S_8_10_11.R
+Figure_S_9.R
+Figure_S_12.R
+Figure_S_13.R
 ```
 
 The script names indicate the corresponding supplementary figures.
