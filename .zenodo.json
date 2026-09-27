@@ -1,6 +1,7 @@
 {
   "title": "MM-DEV: Code and Data for Early Warning Signals to Anticipate Critical Transitions in High-Dimensional Systems",
   "description": "Code and data associated with the MM-DEV study on early warning signals of critical transitions in high-dimensional dynamical systems.",
+  "creators": [
     {
       "name": "Garain, Koushik",
       "orcid": "0000-0002-7788-062X"
@@ -22,7 +23,8 @@
     },
     {
       "name": "Hsieh, Chih-hao"
-    },
+    }
+  ],
   "keywords": [
     "early warning signals",
     "critical transitions",
@@ -35,7 +37,7 @@
     "nonlinear dynamics",
     "ecological systems"
   ],
-  "license": "MIT",
+  "license": "mit",
   "upload_type": "software",
   "access_right": "open",
   "version": "1.0.0",
