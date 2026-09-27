@@ -243,7 +243,11 @@ Detailed information about each dataset, original publications, public repositor
 
 ## Citation
 
-If you use the MM-DEV code, methodology, or datasets in your research, please cite the associated manuscript and this repository.
+If you use the MM-DEV code or data in your research, please cite the archived software release:
+
+Garain, K., Chang, C.-J., Wu, J.-H., Lu, H.-P., Telschow, A., Chang, C.-W., & Hsieh, C.-H. (2026).
+*MM-DEV: Code and Data for Early Warning Signals to Anticipate Critical Transitions in High-Dimensional Systems* (Version 1.0.1).
+Zenodo. https://doi.org/10.5281/zenodo.22988360
 
 ### Manuscript
 
@@ -255,18 +259,16 @@ If you use the MM-DEV code, methodology, or datasets in your research, please ci
 
 ### Code and Data
 
-A permanent archived version of this repository will be made available through **Zenodo**.
+A permanent archived version of this repository is available through **Zenodo**.
 
-**Zenodo DOI:** *To be added after the first archived release.*
+Zenodo DOI: https://doi.org/10.5281/zenodo.22988360
 
 For datasets originating from or associated with previous publications, users should also cite the corresponding original data sources listed in [**Data/Data-README.md**](Data/Data-README.md).
 
 
 ## Version
 
-The first archived research release of this repository will be:
-
-**v1.0.0**
+The first archived research release of this repository: v1.0.1
 
 This version will correspond to the code and data associated with the manuscript.
 
