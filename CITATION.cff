@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use the MM-DEV code or data in your research, please cite this software repository and the associated manuscript."
 title: "MM-DEV: Code and Data for Early Warning Signals to Anticipate Critical Transitions in High-Dimensional Systems"
 type: software
-version: 1.0.0
+version: 1.0.1
+doi: "10.5281/zenodo.22988360"
 
 authors:
 
